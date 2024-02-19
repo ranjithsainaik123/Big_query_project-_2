@@ -1,3 +1,7 @@
+DASHBOARD LINK BY USING LOOKER BI
+https://lookerstudio.google.com/reporting/0748cee4-bfd2-4f8c-9963-3cbf87d75c20
+
+
 #1)	How have sales compared by month from Jan 2021 – Jun 2021?
 
 SELECT *  FROM `midyear-nebula-413114.Project_1.Sales` LIMIT 1000;
